@@ -1752,6 +1752,10 @@
 			margin-bottom: 0;
 		}
 
+a
+{
+    text-decoration: none
+}
 /* Image */
 
 	.image {
@@ -2347,7 +2351,7 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 20%;
+				margin-left: 0%;
 			}
 
 		/* Main */
